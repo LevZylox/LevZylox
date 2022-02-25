@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LevZylox
+- I am IT student
 - 👀 I’m interested in Cybersecurity, and Ethical Hacking
 - 🌱 I’m currently learning and studying Cybersecurity
 - 💞️ I’m looking to collaborate in any field that is related in computer
